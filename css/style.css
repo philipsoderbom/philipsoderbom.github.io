@@ -29,14 +29,13 @@
 
 
 }
-body{
-	font-family: Verdana;
-	height: 100%;
-}
+
 footer{
 	text-align: center;
 	background-color: black;
 	color: white;
+	padding-top: 75px;
+
 
 }
 html, body{
